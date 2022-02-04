@@ -3,14 +3,14 @@
     "GenerationSoftware": {
       "Vendor": "KiCad",
       "Application": "Pcbnew",
-      "Version": "6.99.0"
+      "Version": "6.99.0-1.20220203gita970acd.fc35"
     },
-    "CreationDate": "2021-12-29T22:27:04+01:00"
+    "CreationDate": "2022-02-04T17:37:59+01:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
-      "Name": "shoggotwide",
-      "GUID": "73686f67-676f-4747-9769-64652e6b6963",
+      "Name": "b34rclaw",
+      "GUID": "62333472-636c-4617-972e-6b696361645f",
       "Revision": "v1.0.0"
     },
     "Size": {
@@ -34,47 +34,47 @@
   ],
   "FilesAttributes": [
     {
-      "Path": "shoggotwide-F_Cu.gbr",
+      "Path": "b34rclaw-F_Cu.gbr",
       "FileFunction": "Copper,L1,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "shoggotwide-B_Cu.gbr",
+      "Path": "b34rclaw-B_Cu.gbr",
       "FileFunction": "Copper,L2,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "shoggotwide-F_Paste.gbr",
+      "Path": "b34rclaw-F_Paste.gbr",
       "FileFunction": "SolderPaste,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "shoggotwide-B_Paste.gbr",
+      "Path": "b34rclaw-B_Paste.gbr",
       "FileFunction": "SolderPaste,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "shoggotwide-F_Silkscreen.gbr",
+      "Path": "b34rclaw-F_Silkscreen.gbr",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "shoggotwide-B_Silkscreen.gbr",
+      "Path": "b34rclaw-B_Silkscreen.gbr",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "shoggotwide-F_Mask.gbr",
+      "Path": "b34rclaw-F_Mask.gbr",
       "FileFunction": "SolderMask,Top",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "shoggotwide-B_Mask.gbr",
+      "Path": "b34rclaw-B_Mask.gbr",
       "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "shoggotwide-Edge_Cuts.gbr",
+      "Path": "b34rclaw-Edge_Cuts.gbr",
       "FileFunction": "Profile",
       "FilePolarity": "Positive"
     }
